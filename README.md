@@ -1,4 +1,4 @@
-# LGMVIP-WEB-TASK-3
+# LGMVIP-WEB-TASK-2
 # Student Registration Form
 
 Welcome to the Student Registration Form project! This is a simple web application for enrolling students and displaying their information on the same page.
